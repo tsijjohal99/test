@@ -1,6 +1,6 @@
 #include <iostream>
 
-int feature1GamePlayCODE()
+int newFeatureFromMainBranch()
 {
     system("cls");
     std::cout << "Hello World" << std::endl;
