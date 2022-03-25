@@ -1,5 +1,12 @@
 #include <iostream>
 
+int connectWithGitHub()
+{
+    system("cls");
+    std::cout << "Hello World" << std::endl;
+    return 0;
+}
+
 int feature1GamePlayCODE()
 {
     system("cls");
